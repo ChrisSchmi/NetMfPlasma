@@ -1,6 +1,8 @@
 # NetMfPlasma
 
-Nice small Plasma animation written in C# using .NET Micro Framework :)
+Nice small Plasma animation written in C# using .NET Micro Framework :) running on a STM32F4-Discovery board.
+
+Further information about the board an the mcu: http://www.st.com/web/catalog/tools/FM116/SC959/SS1532/PF252419
 
 Took some inspiration from these guys:
 
